@@ -1,2 +1,2 @@
 # PictureBed
-图床-Typora
+图床
